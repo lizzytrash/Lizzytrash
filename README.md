@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/84eb3450-e428-4299-a02f-258e66016300" width="200">
+  <img src="https://github.com/user-attachments/assets/a3894ae3-b3e0-4e0f-b863-70267116dde7" width="200">
 </p>
 
 <p align="center">
-  figuring things out ✨
+  figuring things out 
 </p>
